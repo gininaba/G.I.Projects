@@ -7,6 +7,7 @@ A repository showcasing comprehensive guide to jailbreaking.
 - [Installation](#installation)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
+- [Credits](#credits)
 
 ## Installation
 Section 1: Jailbreaking and Cydia Installation
@@ -64,3 +65,6 @@ Remember, using jailbreak tweaks involves certain risks, so proceed with caution
 
 ## Contact
 For questions or feedback, contact me at gininaba@gmail.com
+
+## Credits
+u/whoit61
