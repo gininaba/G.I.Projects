@@ -67,4 +67,4 @@ Remember, using jailbreak tweaks involves certain risks, so proceed with caution
 For questions or feedback, contact me at gininaba@gmail.com
 
 ## Credits
-u/whoit61
+Reddit: @whoit61
